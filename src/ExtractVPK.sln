@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractVPK", "ExtractVPK\ExtractVPK.csproj", "{A0B8B4FF-CC3E-9BF3-DBDE-00D70F5EB3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractVPK.Tests", "ExtractVPK.Tests\ExtractVPK.Tests.csproj", "{169517E6-644A-87A8-01AC-86FBD81FFB3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B8B4FF-CC3E-9BF3-DBDE-00D70F5EB3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B8B4FF-CC3E-9BF3-DBDE-00D70F5EB3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B8B4FF-CC3E-9BF3-DBDE-00D70F5EB3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B8B4FF-CC3E-9BF3-DBDE-00D70F5EB3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169517E6-644A-87A8-01AC-86FBD81FFB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169517E6-644A-87A8-01AC-86FBD81FFB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169517E6-644A-87A8-01AC-86FBD81FFB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169517E6-644A-87A8-01AC-86FBD81FFB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8323F3E-C295-4410-AF0B-CB25E98B9A0E}
+	EndGlobalSection
+EndGlobal
